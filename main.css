@@ -1,6 +1,15 @@
-body {
-    background-image: url('book-back.jpg');
+body::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    background: url('book-back.jpg')  center / cover no-repeat;;
+    filter: blur(1px) brightness(0.5);
 }
+
 .afisha {
     margin: auto;
     padding: auto;
