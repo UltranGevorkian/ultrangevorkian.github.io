@@ -1,0 +1,89 @@
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('font/BebasNeueBold.woff2') format('woff2'),
+        url('font/BebasNeueBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bebas Neue Book';
+    src: url('font/BebasNeueBook.woff2') format('woff2'),
+        url('font/BebasNeueBook.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('BebasNeueBold.woff2') format('woff2'),
+        url('font/BebasNeueBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('font/BebasNeueLight.woff2') format('woff2'),
+        url('font/BebasNeueLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bebas Neue Book';
+    src: url('font/BebasNeueBook.woff2') format('woff2'),
+        url('font/BebasNeueBook.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('font/BebasNeueRegular.woff2') format('woff2'),
+        url('BebasNeueRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('font/BebasNeue-Thin.woff2') format('woff2'),
+        url('font/BebasNeue-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('font/BebasNeueRegular.woff2') format('woff2'),
+        url('font/BebasNeueRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pribambas';
+    src: url('font/Pribambas-Regular.woff2') format('woff2'),
+        url('font/Pribambas-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Impact';
+    src: url('font/Impact.woff2') format('woff2'),
+        url('font/Impact.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
