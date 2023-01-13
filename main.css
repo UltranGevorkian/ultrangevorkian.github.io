@@ -1,5 +1,5 @@
 body {
-    background-image: url(book-back.jpg);
+    background-image: url('book-back.jpg');
 }
 .afisha {
     margin: auto;
