@@ -1,3 +1,9 @@
+@media (max-width:500px) {
+    .afisha {
+        width: 100%;
+    }
+}
+
 body::before {
     content: '';
     position: fixed;
